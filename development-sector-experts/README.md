@@ -19,6 +19,9 @@ Examples:
 
 - Education system analysis or programme design → `education-systems-expert`
 - Health-sector analysis → `public-health-expert`
+- Social protection systems or cash transfers → `social-protection-expert`
+- Child protection and safeguarding → `child-protection-expert`
+- Disability inclusion and accessibility → `disability-inclusion-expert`
 - Climate resilience → `climate-resilience-expert`
 - Institutional landscape → `institutional-mapping-expert`
 - Authoritative evidence → `official-evidence-source-expert`
@@ -38,6 +41,14 @@ The core layer provides reusable capabilities that support every sector expert:
 6. `localization-and-language-expert`
 
 Sector experts should call these only when useful. They must retain a built-in minimum fallback for context, evidence, quality control, and localization.
+
+## Available human-development experts
+
+- `education-systems-expert`
+- `public-health-expert`
+- `social-protection-expert`
+- `child-protection-expert`
+- `disability-inclusion-expert`
 
 ## Professional value
 
