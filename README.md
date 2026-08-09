@@ -37,6 +37,10 @@ The suite is designed around a simple principle: **users should be able to start
 | Governance & Protection | Governance, Local Governance, Migration, Peacebuilding, Humanitarian Response |
 | Digital Development | Digital Development, Digital Education, Digital Health, Responsible AI for Development |
 
+## Content & Communications Skills
+
+- [LinkedIn Carousel Production](linkedin-carousel-production/README.md) — turns topics, articles, reports, newsletters, research, campaign briefs, and existing content into swipe-oriented LinkedIn document carousels, with optional Canva production and a complete content/design-specification fallback.
+
 ## Professional positioning
 
 This repository demonstrates a practical approach to **AI integration for development organizations and professional services**: converting domain expertise and recurring workflows into reusable, quality-controlled AI skills rather than relying on one-off prompts.
