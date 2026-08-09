@@ -27,6 +27,10 @@ Examples:
 - Water, sanitation and hygiene → `wash-expert`
 - Disaster risk reduction and preparedness → `disaster-risk-reduction-expert`
 - Biodiversity and ecosystem conservation → `biodiversity-expert`
+- Livelihoods or economic inclusion → `livelihoods-and-economic-inclusion-expert`
+- Employment, labour markets, TVET or skills → `employment-and-skills-expert`
+- Agriculture or rural development → `agriculture-and-rural-development-expert`
+- Financial inclusion or digital finance → `financial-inclusion-expert`
 - Institutional landscape → `institutional-mapping-expert`
 - Authoritative evidence → `official-evidence-source-expert`
 - Data reliability → `development-data-quality-expert`
@@ -61,6 +65,13 @@ Sector experts should call these only when useful. They must retain a built-in m
 - `wash-expert`
 - `disaster-risk-reduction-expert`
 - `biodiversity-expert`
+
+## Available economic-development experts
+
+- `livelihoods-and-economic-inclusion-expert`
+- `employment-and-skills-expert`
+- `agriculture-and-rural-development-expert`
+- `financial-inclusion-expert`
 
 ## Professional value
 
