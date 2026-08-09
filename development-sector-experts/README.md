@@ -31,6 +31,11 @@ Examples:
 - Employment, labour markets, TVET or skills → `employment-and-skills-expert`
 - Agriculture or rural development → `agriculture-and-rural-development-expert`
 - Financial inclusion or digital finance → `financial-inclusion-expert`
+- Governance or public-sector reform → `governance-and-public-sector-expert`
+- Local government or municipal systems → `local-governance-expert`
+- Migration, trafficking or human mobility → `migration-and-human-mobility-expert`
+- Peacebuilding, conflict sensitivity or social cohesion → `peacebuilding-expert`
+- Humanitarian response or emergency programming → `humanitarian-response-expert`
 - Institutional landscape → `institutional-mapping-expert`
 - Authoritative evidence → `official-evidence-source-expert`
 - Data reliability → `development-data-quality-expert`
@@ -72,6 +77,14 @@ Sector experts should call these only when useful. They must retain a built-in m
 - `employment-and-skills-expert`
 - `agriculture-and-rural-development-expert`
 - `financial-inclusion-expert`
+
+## Available governance & protection experts
+
+- `governance-and-public-sector-expert`
+- `local-governance-expert`
+- `migration-and-human-mobility-expert`
+- `peacebuilding-expert`
+- `humanitarian-response-expert`
 
 ## Professional value
 
