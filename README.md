@@ -1,41 +1,64 @@
 # Agentic Skills
 
-This repository is a collection of reusable `SKILL.md` files for AI agents and related workflows.
+Reusable AI skills for professional workflows, domain expertise, research, development practice, and responsible AI integration.
 
-The purpose of the repository is to keep skills organized, version-controlled, easy to improve, and simple to share across compatible agent platforms and projects.
+## Featured collection: Development Sector Experts
 
-## What this repository may contain
+The flagship collection in this repository is **Development Sector Experts** — a modular suite of country-aware AI expert skills designed for NGOs, INGOs, development consulting firms, donors, researchers, evaluators, public institutions, programme teams, and independent professionals.
 
-- Agent instructions and reusable workflows
-- Domain-specific skills
-- Research, writing, creative, and technical skills
-- Supporting examples, templates, scripts, and reference materials
+The suite is designed around a simple principle: **users should be able to start with one expert and get useful results immediately, while organizations that install the full collection can combine experts into richer multi-skill workflows.**
 
-## Recommended structure
+### What makes the suite different
 
-Each skill should be stored in its own folder:
+- **Country-aware:** sector analysis is grounded in the relevant national and subnational context.
+- **Professional-workflow oriented:** skills support proposals, programme design, evaluation, policy analysis, research, institutional mapping, strategy, technical review, and decision support.
+- **Standalone + interoperable:** every expert works independently and can also use supporting experts when available.
+- **Evidence disciplined:** official, institutional, and fit-for-purpose evidence is prioritized.
+- **Responsible by design:** skills include data-quality, non-fabrication, inclusion, privacy, safeguarding, and human-oversight controls where relevant.
+- **Readable by humans:** each sector expert includes a README explaining when and how to use it.
+
+### Start here
+
+- [Development Sector Experts overview](development-sector-experts/README.md)
+- [Which Expert Should I Use?](development-sector-experts/ROUTING-GUIDE.md)
+- [Installation and setup](development-sector-experts/INSTALLATION.md)
+- [Usage examples](development-sector-experts/EXAMPLES.md)
+- [License](development-sector-experts/LICENSE)
+- [Attribution and authorship](development-sector-experts/ATTRIBUTION.md)
+
+## Current expert families
+
+| Family | Examples |
+|---|---|
+| Core | Country Context, Institutional Mapping, Official Evidence Source, Data Quality, Localization, Expert Router |
+| Human Development | Education, Public Health, Social Protection, Child Protection, Disability Inclusion |
+| Climate & Environment | Climate Resilience, Water Security, WASH, Disaster Risk Reduction, Biodiversity |
+| Economic Development | Livelihoods, Employment & Skills, Agriculture & Rural Development, Financial Inclusion |
+| Governance & Protection | Governance, Local Governance, Migration, Peacebuilding, Humanitarian Response |
+| Digital Development | Digital Development, Digital Education, Digital Health, Responsible AI for Development |
+
+## Professional positioning
+
+This repository demonstrates a practical approach to **AI integration for development organizations and professional services**: converting domain expertise and recurring workflows into reusable, quality-controlled AI skills rather than relying on one-off prompts.
+
+The work is led by **Ahmad Nadeem**, with a focus on AI-enabled workflows for development-sector organizations, consulting firms, programme teams, and professionals.
+
+## Using skills from this repository
+
+Each skill lives in its own folder and uses `SKILL.md` as the main agent instruction file. Supporting README, examples, references, or templates may be included where useful.
+
+Typical structure:
 
 ```text
-skills/
-└── skill-name/
-    ├── SKILL.md
-    ├── examples/
-    ├── scripts/
-    └── references/
+skill-name/
+├── SKILL.md
+├── README.md
+├── examples/
+└── references/
 ```
 
-Only the files required by a particular skill need to be included.
-
-## File naming
-
-Use `SKILL.md` as the main instruction file for each skill. Use short, descriptive, kebab-case folder names, for example:
-
-```text
-skills/evidence-to-song/SKILL.md
-skills/proposal-development/SKILL.md
-skills/video-art-direction/SKILL.md
-```
+Exact installation depends on the AI agent or platform you use. See the installation guide inside each collection for practical options.
 
 ## Repository status
 
-This repository is under active development. Skills will be added and refined over time.
+This repository is under active development. Skills are being tested, refined, and expanded over time. Contributions, field testing, and issue reports are welcome.
