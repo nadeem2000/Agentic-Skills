@@ -36,6 +36,10 @@ Examples:
 - Migration, trafficking or human mobility → `migration-and-human-mobility-expert`
 - Peacebuilding, conflict sensitivity or social cohesion → `peacebuilding-expert`
 - Humanitarian response or emergency programming → `humanitarian-response-expert`
+- Digital transformation or digital public infrastructure → `digital-development-expert`
+- EdTech or digital learning → `digital-education-expert`
+- Digital health or health information systems → `digital-health-expert`
+- Responsible AI or organizational AI integration → `responsible-ai-for-development-expert`
 - Institutional landscape → `institutional-mapping-expert`
 - Authoritative evidence → `official-evidence-source-expert`
 - Data reliability → `development-data-quality-expert`
@@ -86,6 +90,13 @@ Sector experts should call these only when useful. They must retain a built-in m
 - `peacebuilding-expert`
 - `humanitarian-response-expert`
 
+## Available digital-development experts
+
+- `digital-development-expert`
+- `digital-education-expert`
+- `digital-health-expert`
+- `responsible-ai-for-development-expert`
+
 ## Professional value
 
-The suite is designed for real workflows including proposals, evaluations, strategy development, policy analysis, programme design, market entry, donor intelligence, research, technical reviews, briefing notes, stakeholder mapping, and organizational decision support.
+The suite is designed for real workflows including proposals, evaluations, strategy development, policy analysis, programme design, market entry, donor intelligence, research, technical reviews, briefing notes, stakeholder mapping, organizational decision support, digital transformation, and responsible AI integration.
