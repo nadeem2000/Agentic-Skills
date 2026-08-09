@@ -22,7 +22,11 @@ Examples:
 - Social protection systems or cash transfers → `social-protection-expert`
 - Child protection and safeguarding → `child-protection-expert`
 - Disability inclusion and accessibility → `disability-inclusion-expert`
-- Climate resilience → `climate-resilience-expert`
+- Climate resilience and adaptation → `climate-resilience-expert`
+- Water resources or water security → `water-security-expert`
+- Water, sanitation and hygiene → `wash-expert`
+- Disaster risk reduction and preparedness → `disaster-risk-reduction-expert`
+- Biodiversity and ecosystem conservation → `biodiversity-expert`
 - Institutional landscape → `institutional-mapping-expert`
 - Authoritative evidence → `official-evidence-source-expert`
 - Data reliability → `development-data-quality-expert`
@@ -49,6 +53,14 @@ Sector experts should call these only when useful. They must retain a built-in m
 - `social-protection-expert`
 - `child-protection-expert`
 - `disability-inclusion-expert`
+
+## Available climate & environment experts
+
+- `climate-resilience-expert`
+- `water-security-expert`
+- `wash-expert`
+- `disaster-risk-reduction-expert`
+- `biodiversity-expert`
 
 ## Professional value
 
