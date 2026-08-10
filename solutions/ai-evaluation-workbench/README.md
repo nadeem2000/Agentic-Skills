@@ -340,17 +340,17 @@ Human technical sign-off
 
 ## Related technical assets
 
-The existing Development Sector Experts suite can support an evaluation workflow through country context, official evidence sourcing, data-quality review, localisation, sector expertise and responsible-AI controls.
+The existing Development Sector Experts suite can support evaluation work through country context, authoritative evidence sourcing, data-quality controls, localisation, sector expertise and responsible-AI safeguards.
+
+Verified public entry points include:
 
 - [Development Sector Experts](../../development-sector-experts/README.md)
 - [Country Context Expert](../../development-sector-experts/core/country-context-expert/SKILL.md)
 - [Official Evidence Source Expert](../../development-sector-experts/core/official-evidence-source-expert/SKILL.md)
-- [Data Quality Expert](../../development-sector-experts/core/data-quality-expert/SKILL.md)
-- [Localisation Expert](../../development-sector-experts/core/localization-expert/SKILL.md)
 - [Responsible AI for Development Expert](../../development-sector-experts/digital-development/responsible-ai-for-development-expert/SKILL.md)
 - [Usage Examples](../../development-sector-experts/EXAMPLES.md)
 
-Sector-specific experts can be added where an evaluation requires technical interpretation in education, public health, social protection, climate resilience, WASH, livelihoods, governance, migration, digital development or other covered domains.
+The wider suite also provides data-quality, localisation and sector-specific capabilities that can be selected through the collection documentation and routing guidance.
 
 ## Engagement model
 
