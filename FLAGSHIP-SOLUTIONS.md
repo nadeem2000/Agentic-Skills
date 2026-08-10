@@ -62,19 +62,21 @@ Opportunity discovery → source verification → eligibility → strategic fit 
 
 ## 4. AI Evaluation Workbench
 
-**Target audience:** Evaluation firms, MEL teams, research organisations, independent evaluators.
+**Target audience:** Evaluation firms, MEL teams, research organisations, NGOs, INGOs, donor-funded implementers and independent evaluators.
 
-**Problem:** Evaluation work requires intensive handling of TORs, programme documents, evidence, questions, methods, qualitative material, findings and reporting structures.
+**Problem:** Evaluation teams must manage complex TORs, evaluation questions, methodology, data-collection tools, large evidence sets, qualitative material, triangulation, findings and reporting while protecting methodological integrity and respondent confidentiality.
 
-**Solution:** A human-supervised workbench for evaluation design and evidence-intensive tasks, while preserving evaluator judgment and methodological accountability.
+**Solution:** A full-lifecycle, human-supervised workbench that supports evaluation mechanics while keeping methodology, evaluative judgment, evidence interpretation, ethics and accountability with the evaluation team.
 
 **Core workflow:**
 
-TOR analysis → programme logic extraction → evaluation questions → method mapping → evidence matrix → tool-development support → document synthesis → qualitative-analysis support → triangulation → finding/evidence linkage → report QA.
+TOR interpretation → evaluation architecture/matrix → methodology and inception support → data-collection tools → evidence and document review → analysis and triangulation → findings/conclusions/recommendations → report QA → human technical approval.
 
-**Potential organisational benefit:** More structured evidence management, reduced repetitive synthesis work, and clearer links between questions, evidence and reporting.
+**Potential organisational benefit:** More structured evidence management, clearer provenance, stronger alignment between questions and methods, earlier identification of evidence gaps, and more consistent report QA.
 
-**Controls:** AI does not determine findings, ratings or causal conclusions. Sensitive data, safeguarding, informed-consent obligations and evaluation ethics require explicit controls.
+**Controls:** Model-generated content is not evidence. Evaluators approve methodology, coding frameworks, interpretations, findings, conclusions and recommendations. Sensitive respondent data, privacy, informed consent and safeguarding require explicit organisational controls.
+
+**Demonstration:** [AI Evaluation Workbench — Human-Supervised Generative AI for Development Evaluation](solutions/ai-evaluation-workbench/README.md)
 
 ---
 
