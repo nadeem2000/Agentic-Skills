@@ -4,63 +4,54 @@ These flagship solutions translate development-sector work into reusable AI-enab
 
 Each solution is structured around five principles: a real organisational problem, a repeatable workflow, evidence and data controls, human oversight, and a practical output that a development-sector team can use.
 
-## 1. AI Proposal & Bid Development Workflow
+## 1. Grant & Bid Opportunity Intelligence Specialist
 
-**Target audience:** Development consulting firms, NGOs, INGOs, proposal teams, capture teams, resource-mobilisation units.
+**Target audience:** NGOs, INGOs, foundations, resource-mobilisation teams, development consulting firms, evaluation firms, research/advisory companies and business-development/capture teams.
 
-**Problem:** Bid development is often compressed into short timelines, with fragmented RFP analysis, compliance tracking, evidence retrieval, expert profiling, drafting and QA.
+**Problem:** Organisations often monitor grants and consulting opportunities through fragmented donor alerts, procurement portals, newsletters and internal trackers. Grant calls and consulting bids are then screened using inconsistent criteria even though they require different eligibility, evidence, partnership and decision logic.
+
+**Solution:** A human-supervised opportunity-intelligence workflow with two distinct professional tracks:
+
+- **Grant Opportunity Analyst** — for Calls for Proposals, Calls for Concept Notes, grant RFPs, challenge funds, institutional funding windows and related grant opportunities.
+- **Consulting Bid Analyst** — for bids, tenders, EOIs, prequalification notices, consulting RFPs/TORs, framework agreements and other professional-service procurements.
+
+**Shared workflow:**
+
+Discover → verify → classify → qualify → match → prioritise → capture → human decision.
+
+**Grant qualification focus:** eligibility, strategic alignment, thematic/geographic fit, organisational capability, partnership readiness, funding/implementation feasibility and submission pathway.
+
+**Consulting-bid qualification focus:** procurement compliance, scope/TOR interpretation, corporate experience, expert requirements, partner/JV gaps, delivery risk and bid/no-bid preparation.
+
+**Potential organisational benefit:** More disciplined opportunity screening, earlier identification of weak-fit or non-compliant opportunities, clearer management decisions, and a more structured handoff into concept-note, proposal, EOI or bid development.
+
+**Controls:** Material opportunity facts must be verified from official sources. Scores are transparent decision-support artefacts, not win probabilities. Eligibility, partner commitments, expert availability and pursue/no-pursue decisions remain human responsibilities.
+
+**Demonstration:** [Grant & Bid Opportunity Intelligence Specialist](solutions/grant-bid-opportunity-intelligence-specialist/README.md)
+
+---
+
+## 2. AI Proposal & Bid Development Workflow
+
+**Target audience:** Development consulting firms, NGOs, INGOs, proposal teams, capture teams and resource-mobilisation units.
+
+**Problem:** Once an opportunity is selected, submission development is often compressed into short timelines, with fragmented RFP/TOR analysis, compliance tracking, evidence retrieval, expert profiling, drafting and QA.
 
 **Solution:** A controlled workflow that uses generative AI to support opportunity interpretation, compliance, proposal architecture, organisational experience retrieval, draft development and final consistency checks.
 
 **Core workflow:**
 
-Opportunity qualification → RFP/TOR analysis → compliance matrix → capture strategy → evidence/experience retrieval → proposal architecture → section drafting support → expert/CV alignment → consistency and factual QA → human approval.
+Opportunity qualification handoff → RFP/TOR analysis → compliance matrix → capture strategy → evidence/experience retrieval → proposal architecture → section drafting support → expert/CV alignment → consistency and factual QA → human approval.
 
 **Potential organisational benefit:** Better process discipline, faster retrieval and synthesis, more consistent proposal structures, and reduced repetitive manual work.
 
-**Controls:** Human ownership of bid/no-bid decisions, strategy, organisational claims, technical judgments, budgets and submission. Current donor rules and deadlines must be independently verified.
+**Controls:** Human ownership of strategy, organisational claims, technical judgments, budgets and submission. Current donor/procurement rules and deadlines must be independently verified.
 
 **Demonstration:** [AI Proposal & Bid Development Workflow](solutions/ai-proposal-bid-development/README.md)
 
 ---
 
-## 2. Development Bid Intelligence System
-
-**Target audience:** Consulting firms, evaluation firms, technical advisory companies, donor-funded implementers.
-
-**Problem:** Teams need to understand new RFPs rapidly and decide whether they are strategically and operationally worth pursuing.
-
-**Solution:** A structured bid-intelligence workflow for assignment interpretation, scope decomposition, eligibility review, competency mapping, staffing implications, risks, deliverables and bid/no-bid support.
-
-**Core workflow:**
-
-RFP intake → mandatory requirements → scope decomposition → implied methodology → team competencies → organisational fit → partner gaps → delivery risk → opportunity summary → human bid/no-bid review.
-
-**Potential organisational benefit:** Faster and more consistent opportunity triage and better capture discussions.
-
-**Controls:** AI output is advisory. Legal, procurement and donor requirements remain subject to human verification against the original solicitation.
-
----
-
-## 3. Donor Opportunity Intelligence Engine
-
-**Target audience:** NGOs, INGOs, foundations, consulting firms, resource-mobilisation teams.
-
-**Problem:** Funding teams often track opportunities manually across donor sites, newsletters, portals and internal spreadsheets without a consistent fit-assessment method.
-
-**Solution:** A workflow for opportunity discovery, eligibility screening, thematic and geographic fit, funding-window interpretation, internal capability matching, pipeline structuring and capture-note preparation.
-
-**Core workflow:**
-
-Opportunity discovery → source verification → eligibility → strategic fit → thematic/geographic match → capability match → partner needs → probability/priority assessment → pipeline record → capture action.
-
-**Potential organisational benefit:** More disciplined donor intelligence, improved prioritisation and less time spent on obviously unsuitable opportunities.
-
-**Controls:** Source URLs, deadlines, eligibility and funding amounts must be verified from official donor material before action.
-
----
-
-## 4. AI Evaluation Workbench
+## 3. AI Evaluation Workbench
 
 **Target audience:** Evaluation firms, MEL teams, research organisations, NGOs, INGOs, donor-funded implementers and independent evaluators.
 
@@ -80,9 +71,9 @@ TOR interpretation → evaluation architecture/matrix → methodology and incept
 
 ---
 
-## 5. Development Evidence Research Assistant
+## 4. Development Evidence Research Assistant
 
-**Target audience:** Researchers, policy teams, programme designers, proposal teams, consultants.
+**Target audience:** Researchers, policy teams, programme designers, proposal teams and consultants.
 
 **Problem:** Evidence synthesis can become slow and inconsistent when source authority, years, definitions, geographies and contradictory findings are not managed systematically.
 
@@ -98,9 +89,9 @@ Question framing → source hierarchy → search/retrieval → source screening 
 
 ---
 
-## 6. Organisational Knowledge Intelligence System
+## 5. Organisational Knowledge Intelligence System
 
-**Target audience:** NGOs, consulting firms, research institutions, programme-management units.
+**Target audience:** NGOs, consulting firms, research institutions and programme-management units.
 
 **Problem:** Valuable knowledge is often scattered across proposals, evaluation reports, policies, project documents, templates and staff drives, making institutional memory difficult to reuse.
 
@@ -116,9 +107,9 @@ Knowledge inventory → document classification → permissions → metadata →
 
 ---
 
-## 7. Responsible AI Adoption Framework
+## 6. Responsible AI Adoption Framework
 
-**Target audience:** NGOs, INGOs, consulting firms, foundations, research organisations, public institutions.
+**Target audience:** NGOs, INGOs, consulting firms, foundations, research organisations and public institutions.
 
 **Problem:** Staff adoption of AI often starts informally before organisations have agreed rules for sensitive data, factual verification, accountability, acceptable use or high-risk decisions.
 
@@ -136,7 +127,7 @@ Workflow mapping → use-case inventory → value/feasibility/risk scoring → r
 
 ---
 
-## 8. Development Professional AI Copilot
+## 7. Development Professional AI Copilot
 
 **Target audience:** Development consultants, evaluators, researchers, technical experts, proposal specialists and managers.
 
@@ -153,6 +144,23 @@ Task intake → context/documents → specialist workflow selection → evidence
 **Controls:** The professional remains accountable for expertise claims, methodological choices, factual accuracy, confidentiality and final outputs.
 
 ---
+
+# Commercial workflow journey
+
+The first three flagship demonstrations form a connected development-sector workflow:
+
+```text
+Grant & Bid Opportunity Intelligence Specialist
+Find and qualify the right opportunities
+        ↓
+AI Proposal & Bid Development Workflow
+Develop concept notes, proposals, EOIs and bids
+        ↓
+AI Evaluation Workbench
+Deliver evaluation assignments with structured, human-supervised AI support
+```
+
+Each flagship remains independently usable. Together they demonstrate how AI integration can support business development, resource mobilisation and professional delivery without removing human ownership of consequential decisions.
 
 # From solution to implementation
 
