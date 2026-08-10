@@ -26,7 +26,8 @@ The focus is not generic prompting. It is the integration of AI into real organi
 | Understand my AI-integration capability | [Professional Portfolio](PORTFOLIO.md) |
 | Explore consulting and advisory services | [AI Integration Services](SERVICES.md) |
 | See commercially relevant solution areas | [Flagship Solutions](FLAGSHIP-SOLUTIONS.md) |
-| Review a complete workflow demonstration | [AI Proposal & Bid Development Workflow](solutions/ai-proposal-bid-development/README.md) |
+| Review the proposal/bid workflow demonstration | [AI Proposal & Bid Development Workflow](solutions/ai-proposal-bid-development/README.md) |
+| Review the evaluation workflow demonstration | [AI Evaluation Workbench](solutions/ai-evaluation-workbench/README.md) |
 | See practical proof of the underlying approach | [Case Studies](case-studies/README.md) |
 | Download/share a practical resource | [25 Practical AI Workflows for Development Organisations](resources/25-ai-workflows-for-development-organisations.md) |
 | Explore the technical skill library | [Development Sector Experts](development-sector-experts/README.md) |
@@ -72,7 +73,7 @@ Responsible scale-up
 
 Structured support from opportunity qualification and RFP analysis through compliance, evidence retrieval, proposal development, expert alignment and final QA.
 
-[View the full demonstration →](solutions/ai-proposal-bid-development/README.md)
+[View the full proposal/bid demonstration →](solutions/ai-proposal-bid-development/README.md)
 
 ### 2. Development Bid Intelligence System
 
@@ -84,7 +85,9 @@ Opportunity discovery, source verification, eligibility screening, strategic fit
 
 ### 4. AI Evaluation Workbench
 
-Human-supervised support for TOR analysis, evaluation design, evidence matrices, qualitative synthesis, triangulation and report QA.
+A full-lifecycle, human-supervised workflow covering TOR interpretation, evaluation architecture, methodology and tools, source-linked evidence review, analysis and triangulation, findings/conclusions/recommendations, and report QA—while keeping evaluative judgment and accountability with the evaluation team.
+
+[View the full Evaluation Workbench demonstration →](solutions/ai-evaluation-workbench/README.md)
 
 ### 5. Development Evidence Research Assistant
 
