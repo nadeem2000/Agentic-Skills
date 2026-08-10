@@ -76,4 +76,4 @@
 - [x] **Step 1: Compare `main` with `ai-evaluation-workbench-spec`.**
 - [x] **Step 2: Confirm only the approved spec, plan, Evaluation Workbench flagship and intended portfolio-integration files changed.**
 - [x] **Step 3: Confirm the branch is not behind `main` in a way that invalidates the implementation.**
-- [ ] **Step 4: Open a draft pull request summarising scope, claims controls and verification evidence.**
+- [x] **Step 4: Open a draft pull request summarising scope, claims controls and verification evidence.**
