@@ -11,9 +11,15 @@ The portfolio is designed for development consulting firms, NGOs and INGOs, eval
 
 ## What I help organisations improve
 
-### Proposal, bid and business-development workflows
+### Grant and bid opportunity intelligence
 
-AI can support opportunity screening, RFP/TOR analysis, compliance mapping, partner and expert profiling, proposal architecture, evidence retrieval, draft development, consistency checks, and final QA. The objective is a stronger process with clearer human review—not automated submission.
+AI can support opportunity discovery, source verification, classification, eligibility review, strategic or corporate fit assessment, capability matching, partner/expert gap identification, prioritisation and capture preparation. Grant and institutional-funding opportunities are treated separately from consulting bids and tenders because they use different qualification logic, evidence and decision criteria.
+
+The detailed [Grant & Bid Opportunity Intelligence Specialist](solutions/grant-bid-opportunity-intelligence-specialist/README.md) contains two professional tracks: **Grant Opportunity Analyst** and **Consulting Bid Analyst**.
+
+### Proposal, concept-note and bid-development workflows
+
+Once an opportunity is selected, AI can support call/RFP/TOR analysis, compliance mapping, partner and expert profiling, proposal architecture, evidence retrieval, draft development, consistency checks, and final QA. The objective is a stronger process with clearer human review—not automated submission.
 
 ### Research and evidence synthesis
 
@@ -22,10 +28,6 @@ I design workflows for structured literature review, source prioritisation, inst
 ### Monitoring, evaluation and learning
 
 Potential workflows include TOR analysis, evaluation-framework development, question-to-method mapping, tool design, qualitative synthesis support, triangulation, evidence matrices, report structuring, and quality review. High-consequence judgments remain with qualified evaluators and technical experts.
-
-### Donor intelligence and resource mobilisation
-
-AI can help teams scan opportunities, structure donor intelligence, compare eligibility and thematic fit, maintain opportunity pipelines, prepare capture notes, and retrieve relevant institutional experience. Human validation remains essential for current donor rules, deadlines and compliance.
 
 ### Organisational knowledge management
 
@@ -52,16 +54,28 @@ The design principles include:
 
 See the [Development Sector Experts collection](development-sector-experts/README.md) for the technical evidence base.
 
-## Flagship solution areas
+## Three mature commercial proof points
 
-1. **AI Proposal & Bid Development Workflow** — structured support from opportunity qualification to submission QA.
-2. **Development Bid Intelligence System** — RFP/TOR interpretation, compliance, capability mapping and bid/no-bid support.
-3. **Donor Opportunity Intelligence Engine** — opportunity discovery, fit assessment, pipeline structuring and capture support.
-4. **AI Evaluation Workbench** — evaluation design, evidence organisation, qualitative synthesis and reporting support.
-5. **Development Evidence Research Assistant** — source discovery, evidence extraction, comparison and synthesis.
-6. **Organisational Knowledge Intelligence System** — controlled reuse of institutional documents and lessons.
-7. **Responsible AI Adoption Framework** — readiness, governance, risk and pilot design for development organisations.
-8. **Development Professional AI Copilot** — practical workflows for consultants and technical experts.
+1. **Grant & Bid Opportunity Intelligence Specialist** — opportunity discovery, official-source verification, grant or consulting-bid qualification, capability matching, prioritisation and human pursue/no-pursue support. Includes **Grant Opportunity Analyst** and **Consulting Bid Analyst** tracks.
+2. **AI Proposal & Bid Development Workflow** — structured support after opportunity selection, from call/RFP/TOR interpretation through compliance, proposal architecture, drafting support, expert alignment and submission QA.
+3. **AI Evaluation Workbench** — full-lifecycle, human-supervised support for evaluation architecture, methodology, evidence organisation, analysis, triangulation and reporting QA.
+
+Together they form the commercial journey:
+
+```text
+Find and qualify opportunities
+        ↓
+Develop proposals / concept notes / EOIs / bids
+        ↓
+Deliver evaluation assignments with structured AI-supported workflows
+```
+
+## Additional flagship solution areas
+
+4. **Development Evidence Research Assistant** — source discovery, evidence extraction, comparison and synthesis.
+5. **Organisational Knowledge Intelligence System** — controlled reuse of institutional documents and lessons.
+6. **Responsible AI Adoption Framework** — readiness, governance, risk and pilot design for development organisations.
+7. **Development Professional AI Copilot** — practical workflows for consultants and technical experts.
 
 See [Flagship Solutions](FLAGSHIP-SOLUTIONS.md).
 
