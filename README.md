@@ -95,11 +95,11 @@ If the repository is useful and you want an easy way to find it again, starring 
 
 External review and small, well-scoped contributions are welcome. You can:
 
-- **[Report a problem](../../issues/new?template=bug_report.yml)** — broken instructions, unclear behaviour, documentation errors or reproducible workflow problems.
-- **[Request an improvement](../../issues/new?template=feature_request.yml)** — propose a change that would improve practical use.
-- **[Request a sector expert](../../issues/new?template=request_sector_expert.yml)** — suggest a missing development-sector capability.
-- **[Request a country adaptation](../../issues/new?template=request_country_adaptation.yml)** — identify a geography where generic assumptions need localisation.
-- **[Share a use case](../../issues/new?template=use_case_showcase.yml)** — explain how you tested, adapted or used a skill/workflow.
+- **[Report a problem](https://github.com/nadeem2000/Agentic-Skills/issues/new?template=bug_report.yml)** — broken instructions, unclear behaviour, documentation errors or reproducible workflow problems.
+- **[Request an improvement](https://github.com/nadeem2000/Agentic-Skills/issues/new?template=feature_request.yml)** — propose a change that would improve practical use.
+- **[Request a sector expert](https://github.com/nadeem2000/Agentic-Skills/issues/new?template=request_sector_expert.yml)** — suggest a missing development-sector capability.
+- **[Request a country adaptation](https://github.com/nadeem2000/Agentic-Skills/issues/new?template=request_country_adaptation.yml)** — identify a geography where generic assumptions need localisation.
+- **[Share a use case](https://github.com/nadeem2000/Agentic-Skills/issues/new?template=use_case_showcase.yml)** — explain how you tested, adapted or used a skill/workflow.
 - **[Contribute documentation or examples](CONTRIBUTING.md)** — small improvements are encouraged.
 
 Please do not include confidential organisational information, personal data, unpublished bid material or other sensitive content in public issues.
