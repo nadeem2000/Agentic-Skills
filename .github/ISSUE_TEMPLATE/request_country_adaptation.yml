@@ -1,0 +1,45 @@
+name: Request a country adaptation
+description: Identify a country or subnational context where a skill needs stronger localisation.
+title: "Country adaptation: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Country adaptations should improve local accuracy without publishing confidential organisational material or presenting one country's institutions as universal.
+  - type: input
+    id: geography
+    attributes:
+      label: Country or subnational area
+      placeholder: Country, province/state/region, municipality or other relevant geography
+    validations:
+      required: true
+  - type: input
+    id: asset
+    attributes:
+      label: Skill or workflow to adapt
+      placeholder: Name or repository path
+    validations:
+      required: true
+  - type: textarea
+    id: localisation_need
+    attributes:
+      label: What needs localisation?
+      description: Explain which institutions, terminology, policies, service-delivery arrangements, evidence sources or assumptions need adjustment.
+      placeholder: Describe the generic assumption and the local reality that should replace or qualify it.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Authoritative sources or reference points
+      description: Link official, institutional or other reliable public sources if available.
+      placeholder: Public source links and a short note on what each supports.
+    validations:
+      required: false
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Public-information check
+      options:
+        - label: I have not included confidential organisational information, personal data or restricted material.
+          required: true
