@@ -1,0 +1,47 @@
+name: Improvement request
+description: Propose a practical improvement to an existing skill, workflow, example or repository experience.
+title: "Improvement: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Focus on the user problem and practical value. Please do not include sensitive organisational information.
+  - type: input
+    id: asset
+    attributes:
+      label: Relevant asset
+      description: Which existing skill, workflow or documentation area does this concern?
+      placeholder: Skill/workflow/path, or "repository-wide"
+    validations:
+      required: true
+  - type: textarea
+    id: user_problem
+    attributes:
+      label: What user problem should improve?
+      description: Describe the current friction, limitation or missing capability.
+      placeholder: Who encounters the problem and in what workflow?
+    validations:
+      required: true
+  - type: textarea
+    id: proposed_change
+    attributes:
+      label: Proposed improvement
+      description: Describe the smallest useful change that would address the problem.
+      placeholder: What should change, and how would a user notice the improvement?
+    validations:
+      required: true
+  - type: textarea
+    id: validation
+    attributes:
+      label: How could we validate it?
+      description: Suggest a realistic test, example or acceptance criterion.
+      placeholder: A representative task, document or expected behaviour.
+    validations:
+      required: false
+  - type: checkboxes
+    id: claims
+    attributes:
+      label: Claims check
+      options:
+        - label: This request does not depend on fabricated or unsupported performance, adoption, ROI or impact claims.
+          required: true

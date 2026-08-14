@@ -1,0 +1,53 @@
+name: Share a use case
+description: Share a non-sensitive example of how you tested, adapted or used an Agentic-Skills asset.
+title: "Use case: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Real use cases help improve the repository. Share only information you are authorised to make public; anonymise or generalise organisational details where needed.
+  - type: input
+    id: asset
+    attributes:
+      label: Asset used
+      placeholder: Skill, workflow or repository path
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context and task
+      description: What kind of user or organisation was involved, what was the task, and what country/sector context mattered?
+      placeholder: Keep organisational details general if needed.
+    validations:
+      required: true
+  - type: textarea
+    id: adaptation
+    attributes:
+      label: What did you adapt or test?
+      placeholder: Instructions changed, context added, workflow steps tested, platform/environment used, or other practical adaptation.
+    validations:
+      required: true
+  - type: textarea
+    id: lessons
+    attributes:
+      label: What worked, failed or needs improvement?
+      description: Focus on observed behaviour and lessons rather than unsupported performance claims.
+      placeholder: Useful behaviour, failure modes, evidence issues, localisation gaps or recommended changes.
+    validations:
+      required: true
+  - type: input
+    id: public_link
+    attributes:
+      label: Optional public link
+      description: Link a public example, fork, article or demonstration if one exists.
+      placeholder: https://...
+    validations:
+      required: false
+  - type: checkboxes
+    id: permission
+    attributes:
+      label: Publication check
+      options:
+        - label: I am authorised to share the information in this public issue and have removed confidential, personal or restricted material.
+          required: true

@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contribution guidance
+    url: https://github.com/nadeem2000/Agentic-Skills/blob/main/CONTRIBUTING.md
+    about: Read the contribution guidance before proposing substantial changes.

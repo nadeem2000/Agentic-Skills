@@ -1,0 +1,47 @@
+name: Problem report
+description: Report a reproducible problem with a skill, workflow, example, link or documentation page.
+title: "Problem: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Agentic-Skills. Please do not include confidential organisational information, personal data, unpublished bid material or other sensitive content.
+  - type: input
+    id: asset
+    attributes:
+      label: Affected asset
+      description: Name or link the skill, workflow, example or document affected.
+      placeholder: development-sector-experts/... or solutions/...
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the problem and what you expected instead.
+      placeholder: Explain the observed behaviour and expected behaviour.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: How can it be reproduced?
+      description: Provide the smallest non-sensitive example, prompt or sequence that reproduces the problem.
+      placeholder: Steps, prompt, environment assumptions and relevant context.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence or source concern
+      description: If this involves a factual, citation, localisation or evidence-quality issue, explain it and provide authoritative sources where possible.
+      placeholder: Optional source links or explanation.
+    validations:
+      required: false
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Public-information check
+      options:
+        - label: I have removed confidential, personal or otherwise sensitive information from this report.
+          required: true

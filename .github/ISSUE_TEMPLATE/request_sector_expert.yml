@@ -1,0 +1,45 @@
+name: Request a sector expert
+description: Suggest a missing development-sector expert or specialist capability.
+title: "Expert request: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        New experts should solve a recurring professional workflow rather than simply imitate a persona. Please describe the practical need without sharing sensitive information.
+  - type: input
+    id: sector
+    attributes:
+      label: Sector or specialist area
+      placeholder: e.g. urban development, nutrition, gender equality
+    validations:
+      required: true
+  - type: textarea
+    id: users
+    attributes:
+      label: Who would use this expert?
+      description: Identify the main professional users.
+      placeholder: NGOs, consulting firms, evaluators, programme teams, researchers...
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What recurring professional problem should it solve?
+      placeholder: Describe the real workflow or decisions involved.
+    validations:
+      required: true
+  - type: textarea
+    id: outputs
+    attributes:
+      label: Expected tasks and outputs
+      placeholder: What should the expert be able to analyse, design, review or produce?
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Country, evidence or responsible-use considerations
+      description: Note localisation needs, evidence sources, major failure modes, sensitive-data concerns or human-review requirements.
+      placeholder: Key considerations that should shape the expert.
+    validations:
+      required: false

@@ -1,156 +1,112 @@
-# AI Integration for International Development
+# Agentic Skills for International Development
 
-## Ahmad Nadeem
+Reusable, country-aware and evidence-conscious **AI skills and workflows for international development** — built for real work in evaluation, research, proposals and bids, responsible AI, programme analysis and organisational AI integration.
 
-**AI Integration Specialist for International Development**  
-Generative AI Workflows · Research & Evaluation · Proposals & Business Development · Knowledge Management · Responsible AI
+For development organisations, consulting firms, NGOs and INGOs, evaluators, researchers, programme teams and independent development professionals.
 
-I help development organisations, consulting firms, NGOs, INGOs, evaluators, researchers and development professionals turn generative AI from ad-hoc experimentation into **practical, repeatable and responsibly governed workflows**.
+**Start here:** [Try a skill](#try-in-60-seconds) · [Explore flagship workflows](#start-with-these-flagship-assets) · [Fork and customise](#fork-and-customise) · [Contribute](CONTRIBUTING.md)
 
-The focus is not generic prompting. It is the integration of AI into real organisational processes such as:
+## Try in 60 seconds
 
-- grant and bid opportunity intelligence;
-- proposal, concept-note and bid development;
-- resource mobilisation and business development;
-- research and evidence synthesis;
-- monitoring, evaluation and learning;
-- programme and policy analysis;
-- organisational knowledge management;
-- communications and reporting;
-- consultant and expert productivity;
-- AI readiness, governance and responsible adoption.
+You do not need to install the whole repository to test the approach.
 
-## Start here
-
-| If you want to... | Go to |
-|---|---|
-| Understand my AI-integration capability | [Professional Portfolio](PORTFOLIO.md) |
-| Explore consulting and advisory services | [AI Integration Services](SERVICES.md) |
-| See commercially relevant solution areas | [Flagship Solutions](FLAGSHIP-SOLUTIONS.md) |
-| Find and qualify grant or consulting opportunities | [Grant & Bid Opportunity Intelligence Specialist](solutions/grant-bid-opportunity-intelligence-specialist/README.md) |
-| Review the proposal/bid workflow demonstration | [AI Proposal & Bid Development Workflow](solutions/ai-proposal-bid-development/README.md) |
-| Review the evaluation workflow demonstration | [AI Evaluation Workbench](solutions/ai-evaluation-workbench/README.md) |
-| See practical proof of the underlying approach | [Case Studies](case-studies/README.md) |
-| Download/share a practical resource | [25 Practical AI Workflows for Development Organisations](resources/25-ai-workflows-for-development-organisations.md) |
-| Explore the technical skill library | [Development Sector Experts](development-sector-experts/README.md) |
-
-## The problem I work on
-
-Development organisations are increasingly using generative AI, but much of that use remains individual, inconsistent and difficult to govern. Staff may have access to capable models without having agreed workflows for source quality, confidentiality, human review, organisational knowledge, donor compliance or high-consequence decisions.
-
-My work focuses on the layer between **AI capability and organisational practice**:
+1. Choose a relevant expert. For example, open the [Education Systems Expert](development-sector-experts/human-development/education-systems-expert/SKILL.md).
+2. Copy or download its `SKILL.md`.
+3. Use it in an AI agent environment that accepts reusable skills/instructions, or use the file as structured project/system guidance where formal skill loading is unavailable.
+4. Give it a real task, for example:
 
 ```text
-Development-sector problem
+Use the Education Systems Expert to review this education programme concept for Pakistan. Identify the strongest elements, evidence gaps, institutional assumptions, implementation risks and improvements needed before donor submission.
+```
+
+5. Keep human review and source verification in the loop for consequential work.
+
+[Read the platform-neutral Quick Start →](QUICKSTART.md)
+
+If you are unsure which development-sector specialist fits your task, start with the [Development Sector Expert Router](development-sector-experts/core/development-sector-expert-router/SKILL.md).
+
+## Start with these flagship assets
+
+| Asset | Best for | What it helps with |
+|---|---|---|
+| **[Development Sector Experts](development-sector-experts/README.md)** | NGOs, consulting firms, researchers, evaluators and sector specialists | A modular suite of 29 country-aware expert skills spanning human development, climate, economic development, governance, protection and digital development. |
+| **[Grant & Bid Opportunity Intelligence Specialist](solutions/grant-bid-opportunity-intelligence-specialist/README.md)** | Business development, resource mobilisation and capture teams | Discover, verify, classify, qualify and prioritise grant and consulting opportunities with human pursue/no-pursue decisions. |
+| **[AI Proposal & Bid Development Workflow](solutions/ai-proposal-bid-development/README.md)** | Proposal, tender and concept-note teams | Turn an RFP, TOR or funding call into a structured compliance, evidence, drafting and QA workflow. |
+| **[AI Evaluation Workbench](solutions/ai-evaluation-workbench/README.md)** | Evaluators, MEL teams and research organisations | Support the evaluation lifecycle while retaining methodology, interpretation and evaluative judgment with the human team. |
+| **[Responsible AI for Development Expert](development-sector-experts/digital-development/responsible-ai-for-development-expert/SKILL.md)** | Organisational leaders, digital teams and AI-integration practitioners | Identify AI use cases, assess risk, define human oversight and plan responsible pilots and adoption. |
+
+Also useful: [25 Practical AI Workflows for Development Organisations](resources/25-ai-workflows-for-development-organisations.md) · [Flagship Solutions](FLAGSHIP-SOLUTIONS.md) · [Case Studies](case-studies/README.md)
+
+## What makes this repository different
+
+This is not intended as a generic prompt library. The repository explores how recurring development-sector work can be packaged into reusable AI capabilities with professional context, evidence discipline and responsible-use controls.
+
+The design pattern is:
+
+```text
+Professional problem
         ↓
-Existing workflow
+Existing workflow and decision points
         ↓
-AI opportunity + risk assessment
-        ↓
-Reusable skill / assistant / process
+Reusable AI skill / assistant / process
         ↓
 Evidence + data + human-review controls
         ↓
-Pilot with real users
+Organisation / country adaptation
         ↓
-Measurement and refinement
+Testing with real tasks
         ↓
-Responsible scale-up
+Refinement and responsible use
 ```
 
-## Who this portfolio is for
+Across the repository, the emphasis is on:
 
-- international-development consulting firms;
-- NGOs and INGOs;
-- evaluation and research organisations;
-- donor-funded programme implementers;
-- social-impact organisations and foundations;
-- universities and think tanks;
-- programme, MEL, research and business-development teams;
-- development consultants and technical experts.
+- country and subnational context rather than imported assumptions;
+- authoritative, fit-for-purpose evidence;
+- explicit data-quality and non-fabrication safeguards;
+- localisation and institutional realities;
+- human accountability for consequential decisions;
+- privacy, safeguarding and inclusion where relevant;
+- reusable workflows rather than one-off prompting.
 
-## Three mature commercial proof points
+## Fork and customise
 
-These three detailed demonstrations form a connected development-sector workflow:
+The repository is designed to be adapted rather than used as a fixed black box.
 
 ```text
-Find & qualify opportunities
+Fork this repository
         ↓
-Develop proposals / concept notes / EOIs / bids
+Select the skills/workflows relevant to your work
         ↓
-Deliver evaluation assignments with structured AI-supported workflows
+Add organisation, sector and country context
+        ↓
+Test against real tasks and documents
+        ↓
+Refine instructions and controls
+        ↓
+Optionally contribute improvements upstream
 ```
 
-### 1. Grant & Bid Opportunity Intelligence Specialist
+Start with [QUICKSTART.md](QUICKSTART.md) for first use and customisation. Development Sector Expert contributors should also read the suite-specific [contribution standards](development-sector-experts/CONTRIBUTING.md).
 
-A human-supervised opportunity-intelligence workflow with two distinct professional tracks:
+If the repository is useful and you want an easy way to find it again, starring it on GitHub is welcome; practical use and feedback are more valuable than stars alone.
 
-- **Grant Opportunity Analyst** — for NGOs, INGOs and resource-mobilisation teams pursuing Calls for Proposals, Calls for Concept Notes, grant RFPs, challenge funds and institutional funding opportunities.
-- **Consulting Bid Analyst** — for consulting, evaluation and advisory firms pursuing bids, tenders, EOIs, prequalification notices, consulting RFPs/TORs and framework opportunities.
+## Contribute, request or share
 
-Both tracks follow **Discover → Verify → Classify → Qualify → Match → Prioritise → Capture → Human decision**, but use different eligibility, evidence, partnership and decision logic.
+External review and small, well-scoped contributions are welcome. You can:
 
-[View the full Grant & Bid Opportunity Intelligence Specialist demonstration →](solutions/grant-bid-opportunity-intelligence-specialist/README.md)
+- **[Report a problem](https://github.com/nadeem2000/Agentic-Skills/issues/new?template=bug_report.yml)** — broken instructions, unclear behaviour, documentation errors or reproducible workflow problems.
+- **[Request an improvement](https://github.com/nadeem2000/Agentic-Skills/issues/new?template=feature_request.yml)** — propose a change that would improve practical use.
+- **[Request a sector expert](https://github.com/nadeem2000/Agentic-Skills/issues/new?template=request_sector_expert.yml)** — suggest a missing development-sector capability.
+- **[Request a country adaptation](https://github.com/nadeem2000/Agentic-Skills/issues/new?template=request_country_adaptation.yml)** — identify a geography where generic assumptions need localisation.
+- **[Share a use case](https://github.com/nadeem2000/Agentic-Skills/issues/new?template=use_case_showcase.yml)** — explain how you tested, adapted or used a skill/workflow.
+- **[Contribute documentation or examples](CONTRIBUTING.md)** — small improvements are encouraged.
 
-### 2. AI Proposal & Bid Development Workflow
+Please do not include confidential organisational information, personal data, unpublished bid material or other sensitive content in public issues.
 
-Structured support after an opportunity has been selected: RFP/TOR or call analysis, compliance, evidence retrieval, proposal architecture, draft development, expert alignment and final QA.
+## Development Sector Experts
 
-[View the full proposal/bid demonstration →](solutions/ai-proposal-bid-development/README.md)
-
-### 3. AI Evaluation Workbench
-
-A full-lifecycle, human-supervised workflow covering TOR interpretation, evaluation architecture, methodology and tools, source-linked evidence review, analysis and triangulation, findings/conclusions/recommendations, and report QA—while keeping evaluative judgment and accountability with the evaluation team.
-
-[View the full Evaluation Workbench demonstration →](solutions/ai-evaluation-workbench/README.md)
-
-## Additional flagship solution areas
-
-### Development Evidence Research Assistant
-
-Authoritative source strategy, evidence extraction, contradiction review, synthesis and citation discipline for evidence-intensive work.
-
-### Organisational Knowledge Intelligence System
-
-Controlled retrieval and reuse of approved proposals, evaluations, policies, project documents, technical resources and institutional lessons.
-
-### Responsible AI Adoption Framework
-
-AI-readiness assessment, use-case prioritisation, risk tiers, data controls, human oversight, governance, pilots and monitoring.
-
-### Development Professional AI Copilot
-
-Reusable workflows for development consultants, researchers, evaluators, proposal specialists and technical experts.
-
-[Explore all flagship solutions →](FLAGSHIP-SOLUTIONS.md)
-
-## Professional services
-
-The portfolio supports six main engagement areas:
-
-1. **AI Readiness & Opportunity Assessment**
-2. **AI Workflow Design & Implementation**
-3. **AI for Proposal & Business Development Teams**
-4. **AI for MEL, Evaluation & Research**
-5. **Custom AI Skills & Assistants**
-6. **Responsible AI Adoption & Capacity Building**
-
-[View services and deliverables →](SERVICES.md)
-
-## Technical evidence: Development Sector Experts
-
-The flagship technical collection in this repository is **Development Sector Experts** — a modular suite of **29 country-aware AI expert skills** for development organisations, consulting firms, researchers, evaluators, programme teams, public institutions and independent professionals.
-
-The collection demonstrates how domain knowledge and recurring quality controls can be packaged into reusable AI capabilities rather than repeated as one-off prompts.
-
-### Design principles
-
-- **Country-aware:** establish relevant national and subnational context before importing assumptions.
-- **Professional-workflow oriented:** support proposals, programme design, evaluation, policy analysis, research, strategy and technical review.
-- **Standalone + interoperable:** each expert works independently and can also combine with supporting experts.
-- **Evidence disciplined:** prioritise authoritative, fit-for-purpose sources and flag uncertainty.
-- **Responsible by design:** include non-fabrication, privacy, safeguarding, inclusion and human-oversight controls where relevant.
-- **Readable by humans:** provide documentation and examples alongside agent instructions.
+The flagship technical collection is **Development Sector Experts** — a modular suite of **29 country-aware AI expert skills** that can work independently or, where supported, alongside related experts.
 
 ### Expert families
 
@@ -163,52 +119,66 @@ The collection demonstrates how domain knowledge and recurring quality controls 
 | Governance & Protection | Governance, Local Governance, Migration, Peacebuilding, Humanitarian Response |
 | Digital Development | Digital Development, Digital Education, Digital Health, Responsible AI for Development |
 
-### Technical collection links
+Technical links: [Overview](development-sector-experts/README.md) · [Routing Guide](development-sector-experts/ROUTING-GUIDE.md) · [Installation](development-sector-experts/INSTALLATION.md) · [Examples](development-sector-experts/EXAMPLES.md) · [License](development-sector-experts/LICENSE)
 
-- [Development Sector Experts overview](development-sector-experts/README.md)
-- [Which Expert Should I Use?](development-sector-experts/ROUTING-GUIDE.md)
-- [Installation and setup](development-sector-experts/INSTALLATION.md)
-- [Usage examples](development-sector-experts/EXAMPLES.md)
-- [Responsible AI for Development Expert](development-sector-experts/digital-development/responsible-ai-for-development-expert/SKILL.md)
-- [License](development-sector-experts/LICENSE)
-- [Attribution and authorship](development-sector-experts/ATTRIBUTION.md)
+## Connected professional workflows
 
-## Case study: from domain expertise to a reusable AI system
+Three detailed demonstrations form a connected business-development and delivery journey:
 
-The Development Sector Experts suite provides the first public portfolio case: a broad professional domain was decomposed into core capabilities, sector specialists, routing, evidence rules, country-awareness and responsible-AI controls, resulting in a documented 29-skill public-release candidate.
+```text
+Find & qualify opportunities
+        ↓
+Develop proposals / concept notes / EOIs / bids
+        ↓
+Deliver evaluation assignments with structured AI-supported workflows
+```
 
-[Read the case study →](case-studies/development-sector-expert-system.md)
+### Grant & Bid Opportunity Intelligence Specialist
 
-## Free practical resource
+Supports two professional tracks: grant/institutional funding and consulting/professional-services opportunities. Both use verification and transparent decision support while keeping eligibility, organisational fit and pursue/no-pursue decisions with people.
 
-### 25 Practical AI Workflows for Development Organisations
+[View the opportunity-intelligence demonstration →](solutions/grant-bid-opportunity-intelligence-specialist/README.md)
 
-A shareable guide covering proposal/business development, research, MEL, programme management, knowledge management and professional productivity—with human-review and responsible-AI considerations for each area.
+### AI Proposal & Bid Development Workflow
 
-[Read or share the guide →](resources/25-ai-workflows-for-development-organisations.md)
+Supports RFP/TOR analysis, compliance, evidence retrieval, proposal architecture, drafting, expert alignment and final QA after an opportunity has been selected.
+
+[View the proposal/bid demonstration →](solutions/ai-proposal-bid-development/README.md)
+
+### AI Evaluation Workbench
+
+Supports TOR interpretation, evaluation architecture, methodology and tools, evidence review, analysis and triangulation, findings/conclusions/recommendations and report QA while preserving evaluator accountability.
+
+[View the Evaluation Workbench demonstration →](solutions/ai-evaluation-workbench/README.md)
 
 ## Responsible claims and use
 
-This portfolio does not treat AI output as verified evidence and does not assume that automation automatically creates value. High-consequence work requires proportionate human oversight, source verification, privacy controls and professional accountability.
+AI output is not treated as verified evidence. High-consequence work requires proportionate human oversight, source verification, privacy controls and professional accountability.
 
-Where a workflow has not yet been measured in an organisational pilot, benefits are described as **potential benefits**, not proven time savings, ROI or impact.
+Where a workflow has not been measured in an organisational pilot, benefits are described as potential benefits rather than proven time savings, ROI, quality improvements or impact.
 
-## Contact and collaboration
+## Professional portfolio and collaboration
 
-I am interested in discussions involving:
+This open-source repository also serves as a practical portfolio of **AI integration for international development**.
 
-- AI-integration advisory assignments;
-- organisational AI-readiness and workflow pilots;
-- grant and bid opportunity-intelligence workflows;
-- proposal/business-development AI systems;
+I am **Ahmad Nadeem**, an AI Integration Specialist for International Development focused on turning generative AI from ad-hoc experimentation into practical, repeatable and responsibly governed workflows.
+
+My work covers:
+
+- AI readiness and opportunity assessment;
+- AI workflow design and implementation;
+- proposal, bid and business-development systems;
 - research, evaluation and MEL workflows;
 - custom AI skills and assistants;
-- responsible-AI adoption and staff capacity development;
-- collaboration with development consulting and evaluation firms;
-- relevant consulting or employment opportunities.
+- knowledge management;
+- responsible AI adoption and capacity development.
 
-Visit my [GitHub profile](https://github.com/nadeem2000) for current public contact links. For a repository-specific discussion, open an issue and begin the title with **AI integration enquiry:** followed by the topic.
+Explore the [Professional Portfolio](PORTFOLIO.md), [AI Integration Services](SERVICES.md), [Flagship Solutions](FLAGSHIP-SOLUTIONS.md) and [Case Studies](case-studies/README.md).
+
+I am interested in relevant collaboration with international-development consulting and advisory firms, NGOs and INGOs, evaluation and research organisations, donor-funded programme implementers, foundations, universities, think tanks and development professionals.
+
+Visit my [GitHub profile](https://github.com/nadeem2000) for current public contact routes. For repository-specific matters, use the issue pathways above.
 
 ---
 
-**Core proposition:** Help development organisations move from ad-hoc generative-AI use to practical, repeatable and responsibly governed workflows.
+**Core proposition:** practical, reusable and responsibly governed AI workflows for international development — designed to be tried, adapted, tested and improved.
